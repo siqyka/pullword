@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
         name = 'pullword',
-        version = '0.0.1',
+        version = '0.0.2',
         keywords = ('pullword'),
         description = 'the sdk for pullword.com -- a free online Chinese text segmentation platform',
         license = 'MIT License',
